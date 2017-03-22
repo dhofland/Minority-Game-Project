@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JCommon 1.0.23"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JFreechart 1.0.19"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JFreechartDemo"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Commons.Math"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ejml.simple"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/stanford.nlp"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
